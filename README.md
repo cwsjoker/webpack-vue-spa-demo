@@ -8,6 +8,8 @@ git clone git@github.com:cwsjoker/webpack-vue-spa-demo.git
 安装第三方npm模块
 npm install
 
+在根目录下运行webpack打包
+
 直接打开index.html测试
 
 <pre>
