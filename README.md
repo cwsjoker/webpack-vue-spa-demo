@@ -1,6 +1,6 @@
-#webpack+vue.js的单页面应用搭建demo
+# webpack+vue.js的单页面应用搭建demo
 
-###安装
+### 安装
 
 clone项目地址
 git clone git@github.com:cwsjoker/webpack-vue-spa-demo.git
